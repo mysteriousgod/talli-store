@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tallistore-dev-62461-authRole",
+      "UnauthRoleArn": "arn:aws:iam::103870393387:role/amplify-tallistore-dev-62461-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::103870393387:role/amplify-tallistore-dev-62461-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-tallistore-dev-62461-deployment",
+      "UnauthRoleName": "amplify-tallistore-dev-62461-unauthRole",
+      "StackName": "amplify-tallistore-dev-62461",
+      "StackId": "arn:aws:cloudformation:ap-south-1:103870393387:stack/amplify-tallistore-dev-62461/847fb640-08c0-11ef-88ee-06c95645fa6e",
+      "AmplifyAppId": "d39ouh0y2snuk3"
+    },
+    "categories": {
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
